@@ -36,15 +36,9 @@ mirror表示的是两个Repository之间的关系，在maven配置文件（setti
 
 &lt;mirror&gt;
 
-
-
 ..........
 
-&lt;
-
-/mirror
-
-&gt;
+&lt;mirror&gt;
 
 &lt;
 
