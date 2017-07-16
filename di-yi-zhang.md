@@ -30,7 +30,9 @@
 
 ### 2.2、定义
 
-        mirror表示的是两个Repository之间的关系，在maven配置文件（setting.xml\)里配置了
+```
+    mirror表示的是两个Repository之间的关系，在maven配置文件（setting.xml\)里配置了
+```
 
 ```
 <mirrors>
@@ -38,9 +40,10 @@
     ...
   <mirror>
 <mirrors>
+即定义了两个Repository之间的镜像关系
 ```
 
-即定义了两个Repository之间的镜像关系
+
 
 ### 2.3、目的
 
