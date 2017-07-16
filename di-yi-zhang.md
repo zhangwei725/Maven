@@ -8,8 +8,6 @@
 
 ![](http://opzv089nq.bkt.clouddn.com/17-7-2/70113161.jpg)
 
-
-
 ### 1.2、 Maven仓库分类
 
 1. remote repository：相当于公共的仓库，大家都能访问到，一般可以用URL的形式访问
@@ -28,7 +26,7 @@
 
 ### 2.1、 概要
 
-​ mirror相当于一个拦截器，它会拦截maven对remote repository的相关请求，把请求里的remote repository地址，重定向到mirror里配置的地址。
+​        mirror相当于一个拦截器，它会拦截maven对remote repository的相关请求，把请求里的remote repository地址，重定向到mirror里配置的地址。
 
 ### 2.2、定义
 
